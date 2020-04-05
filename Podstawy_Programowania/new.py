@@ -6,4 +6,3 @@ surname1=input()
 age=input()
 
 print("Twoje imie: " + name1 + "\nTwoje nazwisko: " + surname1 + "\nTwoj wiek: " + age +".")
-
